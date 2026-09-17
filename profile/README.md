@@ -1,18 +1,20 @@
 # Build in Madrid
 
-Comunidad para gente que construye cosas en Madrid.
+Build in Madrid es una comunidad para gente que construye cosas.
 
-Software, open source, herramientas, experimentos, productos o ideas que vale la pena probar. Encuentros, hack days y espacio para compartir lo que estás haciendo y construir con otra gente de la escena tech de Madrid.
+Software, proyectos open source, herramientas, experimentos, productos o ideas que simplemente vale la pena probar. Organizamos encuentros, hack days y espacios para conocer a otra gente de la comunidad tech de Madrid, compartir lo que estamos haciendo y, sobre todo, construir juntos.
 
-El stack y el nivel no importan. La idea es simple: hacer cosas, compartirlas y conocer a quien también está construyendo aquí.
+Sin importar demasiado el stack, el nivel de experiencia o si venís con una idea. La idea es simple: hacer cosas, compartirlas y conocer a la gente que también está construyendo en Madrid.
 
-## Hacktoberfest Madrid
+## 🎃 Hacktoberfest Madrid
 
-Organizamos [Hacktoberfest Madrid](https://hacktoberfest.buildinmadrid.dev/). En octubre, contribuciones a open source con la comunidad.
+Organizamos [Hacktoberfest Madrid](https://hacktoberfest.buildinmadrid.dev/) — únete durante octubre y contribuye a proyectos open source con la comunidad.
 
-## Dónde encontrarnos
+## 📍 Dónde encontrarnos
 
-- [hacktoberfest.buildinmadrid.dev](https://hacktoberfest.buildinmadrid.dev/)
-- Madrid, España
+- 🌐 [hacktoberfest.buildinmadrid.dev](https://hacktoberfest.buildinmadrid.dev/)
+- 📍 Madrid, España
 
-¿Quieres construir con nosotros? Únete a los próximos encuentros o echa un vistazo a los repositorios.
+## 🤝 Cómo unirte
+
+¿Quieres construir con nosotros? Únete a los próximos encuentros o revisa nuestros repositorios para ver en qué estamos trabajando ahora mismo.
